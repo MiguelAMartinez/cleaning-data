@@ -1,0 +1,12 @@
+install.packages("slidify")
+> install.packages("KernSmooth")
+install.packages("KernSmooth")
+library(KernSmooth)
+x <- 5
+print(x)
+install.packages("RMySQL")
+source("run_analysis.R")
+data <- read.table("tidyDataTable.txt", header = TRUE)
+View(data)
+data
+View(data)
