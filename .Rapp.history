@@ -10,3 +10,4 @@ data <- read.table("tidyDataTable.txt", header = TRUE)
 View(data)
 data
 View(data)
+View(data)
